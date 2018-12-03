@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+</head>
+<body>
+    <div id="app">
+        <h1>{{title}}</h1>
+        <ul :style="{width:'300px'}" class="list-group">
+            <li class="list-group-item" v-for="(item,key) in teacherList" :teacher_id="item.teacher_id" :key="key">{{item.teacher_name}}
+                <span @click="del(item.teacher_id,key)" class="btn btn-danger float-right">删除</span>
+            </li>
+            <li class="list-group-item" v-show="isAdd">
+                <span @click="isAdd=!isAdd" class="btn btn-primary">添加</span>
+            </li>
+            <li class="list-group-item" v-show="!isAdd">
+                <input v-model="teacherName" type="text" class="form-control">
+                <span class="btn btn-info" @click="sure">确定</span>
+                <span class="btn btn-danger" @click="isAdd=!isAdd">取消</span>
+            </li>
+        </ul>
+    </div>
+    <script src="/js/vue.min.js"></script>
+    <script src="/js/axios.min.js"></script>
+    <script>
+        new Vue({
+            el:'#app',  // 给应用提供一个挂载点
+            data:{
+                title:'管理讲师',
+                teacherList:[],
+                isAdd:true,
+                teacherName:''
+            },
+            mounted(){
+                axios.get('/users/getTeacher').then(response=>{
+                    if(response.data.code === 1){
+                        this.teacherList = response.data.teacherList;
+                    }
+                })
+            },
+            methods:{
+                del(teacher_id,key){
+                    // 发请求删除
+                    
+                    // 从视图删除
+                    this.teacherList.splice(key,1);
+                },
+                sure(){
+                    
+                    axios.post('/users/addTeacher',{
+                        teacher_name:this.teacherName
+                    }).then(response=>{
+                        if(response.data.code === 1){
+                            this.isAdd = !this.isAdd;
+                            this.teacherList.push({
+                                teacher_id:response.data.teacher_id,
+                                teacher_name:this.teacherName
+                            });
+                        }
+                    })
+                }
+            }
+        })
+    </script>
+</body>
+</html>

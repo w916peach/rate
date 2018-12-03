@@ -1,0 +1,22 @@
+{
+  "name": "reate-node",
+  "version": "1.0.0",
+  "description": "一个后台应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./bin/index.js",
+    "start": "node-dev ./bin/index.js",
+    "test:mysql": "node ./utils/mysql.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0",
+    "uuid": "^3.3.2"
+  }
+}
