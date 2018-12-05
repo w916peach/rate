@@ -1,3 +1,4 @@
 import test from './test'
+import showscore from './showscore' 
 
-export default {test}
+export default {test,showscore}

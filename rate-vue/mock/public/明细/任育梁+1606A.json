@@ -1,0 +1,1382 @@
+[
+    {
+        "studentId": "162711000268",
+        "rates": [
+            {
+                "rate": 7,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 8,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 6,
+                "rateIndex": 5
+            },
+            {
+                "rate": 6,
+                "rateIndex": 6
+            },
+            {
+                "rate": 8,
+                "rateIndex": 8
+            },
+            {
+                "rate": 1,
+                "rateIndex": 7
+            },
+            {
+                "rate": 5,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 71
+    },
+    {
+        "studentId": "17382100467",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            }
+        ],
+        "allRate": 100
+    },
+    {
+        "studentId": "141361000741",
+        "rates": [
+            {
+                "rate": 9,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 9,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 9,
+                "rateIndex": 7
+            },
+            {
+                "rate": 9,
+                "rateIndex": 6
+            },
+            {
+                "rate": 9,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            }
+        ],
+        "allRate": 95
+    },
+    {
+        "studentId": "17382100450",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 100
+    },
+    {
+        "studentId": "17382100485",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 8,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 8,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            },
+            {
+                "rate": 9,
+                "rateIndex": 7
+            }
+        ],
+        "allRate": 95
+    },
+    {
+        "studentId": "162711000047",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 9,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 9,
+                "rateIndex": 6
+            },
+            {
+                "rate": 8,
+                "rateIndex": 7
+            },
+            {
+                "rate": 9,
+                "rateIndex": 8
+            },
+            {
+                "rate": 9,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            },
+            {
+                "rate": 9,
+                "rateIndex": 5
+            }
+        ],
+        "allRate": 93
+    },
+    {
+        "studentId": "141161000484",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 7,
+                "rateIndex": 8
+            },
+            {
+                "rate": 6,
+                "rateIndex": 9
+            },
+            {
+                "rate": 5,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 88
+    },
+    {
+        "studentId": "17382100432",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            }
+        ],
+        "allRate": 100
+    },
+    {
+        "studentId": "17382100070",
+        "rates": [
+            {
+                "rate": 9,
+                "rateIndex": 1
+            },
+            {
+                "rate": 9,
+                "rateIndex": 2
+            },
+            {
+                "rate": 9,
+                "rateIndex": 3
+            },
+            {
+                "rate": 2,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 7,
+                "rateIndex": 6
+            },
+            {
+                "rate": 8,
+                "rateIndex": 4
+            },
+            {
+                "rate": 7,
+                "rateIndex": 8
+            },
+            {
+                "rate": 9,
+                "rateIndex": 9
+            },
+            {
+                "rate": 9,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 79
+    },
+    {
+        "studentId": "17382100181",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 8,
+                "rateIndex": 2
+            },
+            {
+                "rate": 8,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 9,
+                "rateIndex": 5
+            },
+            {
+                "rate": 6,
+                "rateIndex": 6
+            },
+            {
+                "rate": 8,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 9,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 88
+    },
+    {
+        "studentId": "151591000284",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 7,
+                "rateIndex": 2
+            },
+            {
+                "rate": 8,
+                "rateIndex": 3
+            },
+            {
+                "rate": 7,
+                "rateIndex": 4
+            },
+            {
+                "rate": 7,
+                "rateIndex": 5
+            },
+            {
+                "rate": 8,
+                "rateIndex": 6
+            },
+            {
+                "rate": 8,
+                "rateIndex": 7
+            },
+            {
+                "rate": 9,
+                "rateIndex": 8
+            },
+            {
+                "rate": 8,
+                "rateIndex": 9
+            },
+            {
+                "rate": 8,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 80
+    },
+    {
+        "studentId": "163231000029",
+        "rates": [
+            {
+                "rate": 9,
+                "rateIndex": 7
+            },
+            {
+                "rate": 8,
+                "rateIndex": 1
+            },
+            {
+                "rate": 8,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 8,
+                "rateIndex": 5
+            },
+            {
+                "rate": 8,
+                "rateIndex": 6
+            },
+            {
+                "rate": 9,
+                "rateIndex": 8
+            },
+            {
+                "rate": 9,
+                "rateIndex": 9
+            },
+            {
+                "rate": 8,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 87
+    },
+    {
+        "studentId": "162221000368",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 100
+    },
+    {
+        "studentId": "17382100496",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 9,
+                "rateIndex": 2
+            },
+            {
+                "rate": 9,
+                "rateIndex": 3
+            },
+            {
+                "rate": 9,
+                "rateIndex": 4
+            },
+            {
+                "rate": 8,
+                "rateIndex": 5
+            },
+            {
+                "rate": 9,
+                "rateIndex": 6
+            },
+            {
+                "rate": 8,
+                "rateIndex": 7
+            },
+            {
+                "rate": 9,
+                "rateIndex": 8
+            },
+            {
+                "rate": 9,
+                "rateIndex": 9
+            },
+            {
+                "rate": 9,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 89
+    },
+    {
+        "studentId": "151991001013",
+        "rates": [
+            {
+                "rate": 8,
+                "rateIndex": 1
+            },
+            {
+                "rate": 8,
+                "rateIndex": 2
+            },
+            {
+                "rate": 8,
+                "rateIndex": 3
+            },
+            {
+                "rate": 8,
+                "rateIndex": 4
+            },
+            {
+                "rate": 8,
+                "rateIndex": 5
+            },
+            {
+                "rate": 8,
+                "rateIndex": 6
+            },
+            {
+                "rate": 3,
+                "rateIndex": 7
+            },
+            {
+                "rate": 8,
+                "rateIndex": 8
+            },
+            {
+                "rate": 2,
+                "rateIndex": 9
+            },
+            {
+                "rate": 8,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 69
+    },
+    {
+        "studentId": "152121000212",
+        "rates": [
+            {
+                "rate": 5,
+                "rateIndex": 1
+            },
+            {
+                "rate": 8,
+                "rateIndex": 2
+            },
+            {
+                "rate": 8,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 7,
+                "rateIndex": 5
+            },
+            {
+                "rate": 6,
+                "rateIndex": 6
+            },
+            {
+                "rate": 8,
+                "rateIndex": 7
+            },
+            {
+                "rate": 9,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 9,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 80
+    },
+    {
+        "studentId": "163231000568",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 100
+    },
+    {
+        "studentId": "162221000253",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 9,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 9,
+                "rateIndex": 5
+            },
+            {
+                "rate": 8,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 9,
+                "rateIndex": 10
+            },
+            {
+                "rate": 9,
+                "rateIndex": 9
+            }
+        ],
+        "allRate": 94
+    },
+    {
+        "studentId": "163231000324",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            }
+        ],
+        "allRate": 100
+    },
+    {
+        "studentId": "163231000513",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 100
+    },
+    {
+        "studentId": "162221000201",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 100
+    },
+    {
+        "studentId": "17382100473",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 9,
+                "rateIndex": 2
+            },
+            {
+                "rate": 9,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 9,
+                "rateIndex": 5
+            },
+            {
+                "rate": 9,
+                "rateIndex": 6
+            },
+            {
+                "rate": 9,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 9,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 94
+    },
+    {
+        "studentId": "163231000477",
+        "rates": [
+            {
+                "rate": 7,
+                "rateIndex": 1
+            },
+            {
+                "rate": 9,
+                "rateIndex": 2
+            },
+            {
+                "rate": 7,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 7,
+                "rateIndex": 5
+            },
+            {
+                "rate": 6,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 8,
+                "rateIndex": 8
+            },
+            {
+                "rate": 8,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 82
+    },
+    {
+        "studentId": "162711000245",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            }
+        ],
+        "allRate": 100
+    },
+    {
+        "studentId": "17356100025",
+        "rates": [
+            {
+                "rate": 8,
+                "rateIndex": 1
+            },
+            {
+                "rate": 9,
+                "rateIndex": 2
+            },
+            {
+                "rate": 9,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 8,
+                "rateIndex": 5
+            },
+            {
+                "rate": 9,
+                "rateIndex": 6
+            },
+            {
+                "rate": 7,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 9,
+                "rateIndex": 10
+            },
+            {
+                "rate": 8,
+                "rateIndex": 9
+            }
+        ],
+        "allRate": 87
+    },
+    {
+        "studentId": "162711000263",
+        "rates": [
+            {
+                "rate": 10,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 10,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 10,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 10,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 100
+    },
+    {
+        "studentId": "162221000179",
+        "rates": [
+            {
+                "rate": 8,
+                "rateIndex": 1
+            },
+            {
+                "rate": 8,
+                "rateIndex": 2
+            },
+            {
+                "rate": 8,
+                "rateIndex": 3
+            },
+            {
+                "rate": 8,
+                "rateIndex": 4
+            },
+            {
+                "rate": 8,
+                "rateIndex": 5
+            },
+            {
+                "rate": 7,
+                "rateIndex": 6
+            },
+            {
+                "rate": 9,
+                "rateIndex": 7
+            },
+            {
+                "rate": 8,
+                "rateIndex": 8
+            },
+            {
+                "rate": 7,
+                "rateIndex": 9
+            },
+            {
+                "rate": 8,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 79
+    },
+    {
+        "studentId": "17382100248",
+        "rates": [
+            {
+                "rate": 9,
+                "rateIndex": 1
+            },
+            {
+                "rate": 9,
+                "rateIndex": 2
+            },
+            {
+                "rate": 9,
+                "rateIndex": 3
+            },
+            {
+                "rate": 8,
+                "rateIndex": 4
+            },
+            {
+                "rate": 8,
+                "rateIndex": 5
+            },
+            {
+                "rate": 10,
+                "rateIndex": 6
+            },
+            {
+                "rate": 9,
+                "rateIndex": 7
+            },
+            {
+                "rate": 10,
+                "rateIndex": 8
+            },
+            {
+                "rate": 9,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 91
+    },
+    {
+        "studentId": "17382100028",
+        "rates": [
+            {
+                "rate": 8,
+                "rateIndex": 1
+            },
+            {
+                "rate": 9,
+                "rateIndex": 2
+            },
+            {
+                "rate": 9,
+                "rateIndex": 3
+            },
+            {
+                "rate": 9,
+                "rateIndex": 4
+            },
+            {
+                "rate": 9,
+                "rateIndex": 5
+            },
+            {
+                "rate": 9,
+                "rateIndex": 6
+            },
+            {
+                "rate": 10,
+                "rateIndex": 7
+            },
+            {
+                "rate": 9,
+                "rateIndex": 8
+            },
+            {
+                "rate": 8,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 90
+    },
+    {
+        "studentId": "17356100069",
+        "rates": [
+            {
+                "rate": 9,
+                "rateIndex": 1
+            },
+            {
+                "rate": 10,
+                "rateIndex": 2
+            },
+            {
+                "rate": 9,
+                "rateIndex": 3
+            },
+            {
+                "rate": 10,
+                "rateIndex": 4
+            },
+            {
+                "rate": 9,
+                "rateIndex": 5
+            },
+            {
+                "rate": 9,
+                "rateIndex": 6
+            },
+            {
+                "rate": 9,
+                "rateIndex": 7
+            },
+            {
+                "rate": 9,
+                "rateIndex": 8
+            },
+            {
+                "rate": 9,
+                "rateIndex": 9
+            },
+            {
+                "rate": 10,
+                "rateIndex": 10
+            }
+        ],
+        "allRate": 93
+    }
+]
