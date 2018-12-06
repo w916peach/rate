@@ -57,7 +57,6 @@ let login = async (req,res,next)=>{
     if(sessionIndex !== -1){
         // 如果已经登录后，就删除之前的登录信息
         sessions.splice(sessionIndex,1);
-        return;
     }
     // 生成sessionid
     let sessionid = uuid();

@@ -12,3 +12,12 @@ export function getDetailScoreApi(user){
     return request('/getDetailScore',{params:{user}});
 }
 
+
+// 登录的接口
+
+export function loginApi(username,userpwd){
+    return request('http://localhost:3000/users/login',{
+        method:'POST',
+        data:{username,userpwd}
+    })
+}
