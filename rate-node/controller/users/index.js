@@ -63,6 +63,8 @@ let login = async (req,res,next)=>{
     let sessionid = uuid();
     // 记录用户信息  username userpwd userid 
     sessions.push({...userInfo,sessionid});
+    // 响应用户数据
+    res.send({msg:'登录成功',code:1,sessionid,username});
 
 }
 module.exports = {addTeacher,login,getTeacher}
