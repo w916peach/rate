@@ -3,9 +3,12 @@ const path = require('path');
 const bodyParser = require('body-parser');
 const checkLogin = require('../checkLogin');
 const cookieParser = require('cookie-parser');
+const rawParser = require('../rawParser');
 module.exports = app=>{
+    // 处理原始数据源中的数据
+    app.use(rawParser);
     // 处理传递的数据
-    app.use(bodyParser());
+    app.use(bodyParser.json());
     app.use(bodyParser.urlencoded({extended:false}));
     // 处理cookie数据
     app.use(cookieParser());

@@ -13,7 +13,7 @@ module.exports = {
     proxyTable: {
       '/':{
         target:'http://localhost:3000',
-        showOrigin:true
+        changeOrigin:true
       }
       
     },
@@ -44,12 +44,12 @@ module.exports = {
 
   build: {
     // Template for index.html
-    index: path.resolve(__dirname, '../dist/index.html'),
+    index: path.resolve(__dirname, '../../rate-node/public/dist/index.html'),
 
     // Paths
-    assetsRoot: path.resolve(__dirname, '../dist'),
+    assetsRoot: path.resolve(__dirname, '../../rate-node/public/dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: '/dist',
 
     /**
      * Source Maps

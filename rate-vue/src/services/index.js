@@ -16,8 +16,8 @@ export function getDetailScoreApi(user){
 // 登录的接口
 
 export function loginApi(username,userpwd){
-    return request('http://localhost:3000/users/login',{
+    return request('/users/login',{
         method:'POST',
-        data:{username,userpwd}
+        data:`username=${username}&userpwd=${userpwd}`
     })
 }

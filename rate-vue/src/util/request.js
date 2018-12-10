@@ -2,7 +2,7 @@ import axios from 'axios'
 function request(url,options={}){
     let defaultHeaders = {
         'Authorization':sessionStorage.getItem('sessionid'),
-        'Content-Type':'application/json'
+        'Content-Type':'application/x-www-form-encoded'
     };
     options.headers = options.headers || defaultHeaders;
     return axios(url,options).then(res=>{
@@ -10,6 +10,7 @@ function request(url,options={}){
             return res.data;
         }else{
             alert(res.data.msg);
+            return res.data;
         }
     }).catch(err=>{
         if(err){
