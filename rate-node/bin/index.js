@@ -21,7 +21,7 @@ error(app);
 
 
 
-let port = process.env.PORT*1 || 3000; // port是动态的
+let port = process.env.PORT*1 || 7070; // port是动态的
 app.listen(port,()=>{
     console.log(`服务器已经成功的运行在http://${port}上`);
 })
